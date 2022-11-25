@@ -5,8 +5,8 @@ public class ASwapString {
 	public static void main(String[] args) {
 		
 		
-		String one = "virat";
-		String two = "18";
+		String one = "viratKOHLI";
+		String two = "18FAV";
 		  
 		System.out.println("Before Swap :" +one +  " " + two);
 		
